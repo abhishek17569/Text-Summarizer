@@ -6,7 +6,9 @@ Setting up the Python environment
 ---
 First, install the following packages.
 
-
+```bash
+nltk.download() --> run once, to install the ntkl packages  
+```
 
 Next, install the following Pip packages.
 
